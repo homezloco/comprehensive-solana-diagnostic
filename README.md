@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/comprehensive-solana-diagnostic.svg)](https://pypi.org/project/comprehensive-solana-diagnostic/)
+
 # Comprehensive Solana Diagnostic Tool
 
 A Python tool for comprehensive diagnostics of Solana nodes and networks.

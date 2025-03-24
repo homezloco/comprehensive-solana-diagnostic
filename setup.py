@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='comprehensive_solana_diagnostic',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(),
     install_requires=[
         'aiohttp>=3.8.0',
@@ -20,4 +20,8 @@ setup(
     python_requires='>=3.8',
     long_description=long_description,
     long_description_content_type="text/markdown",
+    project_urls={
+        'Source': 'https://github.com/homezloco/comprehensive-solana-diagnostic',
+        'Bug Reports': 'https://github.com/homezloco/comprehensive-solana-diagnostic/issues',
+    },
 )
